@@ -1,0 +1,23 @@
+						<!-- Start related Area -->
+<section class="related-area section-gap">
+	<div class="container">					
+		<div class="row justify-content-center">
+			<div class="active-realated-carusel">
+				<div class="item row align-items-center">
+					<div class="col-lg-6 rel-left">
+					   <h3>
+						День рождения!
+					   </h3>
+					   <p class="pt-30 pb-30">
+						Ваш праздник дня рождения будет красиво и вкусно украшен нашими тортами. Ваше пожелание, наше искусство вместе сделает всех счастливым! 					   </p>
+						<a href="#contact" class="primary-btn header-btn text-uppercase">Оставить заявку</a>								   
+					</div>
+					<div class="col-lg-6">
+						<img class="img-fluid" width="555" height="400" src="img/bday1.jpg" alt="">
+					</div>
+				</div>		
+			</div>
+		</div>
+	</div>	
+</section>
+			<!-- End related Area -->

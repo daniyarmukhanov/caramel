@@ -1,5 +1,5 @@
 <?php
-    $to = 'demo@spondonit.com';
+    $to = 'kipchakdias@gmail.com';
     $firstname = $_POST["fname"];
     $email= $_POST["email"];
     $text= $_POST["message"];
@@ -23,9 +23,9 @@
 
     if (@mail($to, $email, $message, $headers))
     {
-        echo 'The message has been sent.';
+        echo 'Заявка принята';
     }else{
-        echo 'failed';
+        echo 'ошибка';
     }
 
 ?>
